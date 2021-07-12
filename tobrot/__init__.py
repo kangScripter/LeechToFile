@@ -10,7 +10,7 @@ import logging
 if bool(os.environ.get("ENV", False)):
     from tobrot.sample_config import Config
 else:
-    from tobrot.config import config
+    from tobrot.config import Config
 
 from logging.handlers import RotatingFileHandler
 
