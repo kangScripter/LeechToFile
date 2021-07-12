@@ -34,7 +34,7 @@ Heroku Support removed temporarily!! Dont deploy, You'll get ban :(
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/prgofficial/LeechToFile
+git clone https://github.com/teja9949/LeechToFile
 cd LeechToFile
 virtualenv -p /usr/bin/python3 VENV
 . ./VENV/bin/activate
